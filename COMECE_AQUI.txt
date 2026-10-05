@@ -1,0 +1,17 @@
+REX - PC DO TRABALHO
+
+1. Extraia o ZIP inteiro para uma pasta local no computador do trabalho.
+2. Abra instalar_rex.cmd e aguarde a mensagem de instalacao concluida.
+   Se faltar Python ou aparecer um bloqueio da empresa, envie a tela para continuarmos.
+3. Abra iniciar_rex.cmd. Primeiro use a opcao 1 e mantenha inicio = ontem.
+   Deixe os campos Google vazios no primeiro teste.
+4. Use a opcao 2 para digitar sua conta REX neste PC, com a senha oculta.
+5. Use a opcao 3 para testar somente ontem; depois a opcao 8 para ver o volume.
+
+O banco fica em LOCALAPPDATA\REXIntegracao, fora da pasta do programa.
+Todos os dias coletados ficam no historico local; backups sao versionados.
+Depois configuraremos o envio de ate 12 meses ao Google Sheets e o painel.
+O PC precisa executar as atualizacoes. A equipe usa a ultima copia publicada.
+
+Guia completo: rex_local\LEIA-ME.md
+Nao envie senhas, tokens ou arquivos de autorizacao Google pelo chat.

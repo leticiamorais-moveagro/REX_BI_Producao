@@ -1,0 +1,24 @@
+﻿
+# Ambientes e caches
+.venv*/
+_pycache_/
+*.py[cod]
+
+# Dados exportados e bancos locais
+exportacao_piloto_rex/
+*.ndjson
+*.jsonl
+*.json
+.sqlite
+*.db
+*.zip
+
+# Credenciais
+.env
+.env.*
+credentials/
+secrets/
+.gcloud/
+*.pem
+*.p12
+*.pfx
